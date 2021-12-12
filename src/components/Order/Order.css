@@ -1,0 +1,8 @@
+.order__total{
+    margin: 20px 0 ;
+}
+.order__id{
+    position: absolute;
+    top: 30px;
+    right: 16px;
+}

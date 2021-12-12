@@ -1,0 +1,18 @@
+.checkout__title{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 15px;
+}
+.checkout__image{
+    width: 200px;
+}
+.basket__item{
+    border-bottom: 1px solid lightgray;
+    
+}
+.remove__basket{
+    background-color: #FEBD69;
+    border: 1px solid;
+    color: #111;
+    border-color: #a88743;
+    padding: 5px;
+}

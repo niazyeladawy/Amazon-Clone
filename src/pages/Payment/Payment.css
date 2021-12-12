@@ -1,0 +1,13 @@
+.payment__section{
+    background-color:#fff;
+    padding: 20px;
+    margin: 20px 0;
+}
+.payment__button{
+    border: 0;
+    cursor: pointer;
+    width: fit-content;
+    padding: 7px 20px;
+    background-color: #FFD814;
+    outline: 0;
+}

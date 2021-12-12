@@ -1,0 +1,11 @@
+.subtotal > button{
+    border: 0;
+    cursor: pointer;
+    width: 100%;
+    background-color: #FFD814;
+    outline: 0;
+}
+.subtotal__gift{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,35 @@
+.login{
+    background-color: #fff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.login__logo{
+    width: 100px;
+    margin: 20px 0;
+}
+.login__container{
+    width: 400px;
+    height: fit-content;
+    border: 1px solid #ddd ;
+    border-radius: 5px;
+    padding: 30px;
+}
+.login__container > h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.login__button{
+    font-size: 14px  !important;
+    background: linear-gradient(to bottom,#f7dfa5,#f0c14b) !important;
+}
+.login__container > p{
+    margin-top: 20px;
+    font-size: 12px!important;
+    line-height: 1.5!important;
+}
+.login__registerbutton{
+    background: linear-gradient(to bottom,#e7eaf0,#d9dce1) !important;
+    font-size: 14px  !important;
+}
